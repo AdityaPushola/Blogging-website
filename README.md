@@ -8,11 +8,6 @@ A blogging website created using **Python Flask** and **SQLAlchemy**, with deplo
 2. ```pip install Flask-SQLAlchemy```  
 3. ```pip install gunicorn```  
 
-### Web Application  
-
-<div align='center'>  
-<img src='templates/website.JPG' height="400px">  
-</div>  
 
 ### Steps of Code Execution  
 
@@ -22,12 +17,6 @@ A blogging website created using **Python Flask** and **SQLAlchemy**, with deplo
 4. Install requirements  
    ```bash
    pip install -r requirements.txt
-
-### Web Application
-
-<div align='center'>
-<img src = 'templates/website.JPG' height="400px">
-</div>
 
 
 ### References
