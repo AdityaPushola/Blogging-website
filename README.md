@@ -19,7 +19,3 @@ A blogging website created using **Python Flask** and **SQLAlchemy**, with deplo
    pip install -r requirements.txt
 
 
-### References
-
-https://www.tutorialspoint.com/flask/index.htm
-https://flask-restful.readthedocs.io/en/latest/
